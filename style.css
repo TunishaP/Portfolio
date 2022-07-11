@@ -95,8 +95,13 @@ PROJECTS
 
 #projects .card img {
   width: 100%;
+  margin-left: 3px;
 }
 
 #projects .card-title {
   font-weight: bold;
 }
+
+ .row {
+  border: 1px;
+ }
